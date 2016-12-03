@@ -1,0 +1,1 @@
+A Node.js API application using Express, MongoDB & Mongoose (server side only).
